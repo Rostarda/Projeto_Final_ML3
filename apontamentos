@@ -1,1 +1,14 @@
 o caminho correto do dataset é 'dataset/HomeC.csv'
+
+quando se der commit, nunca ter o ficheiro do dataset unzip, por questões de memória
+
+OBJETIVOS:
+    clustering - agrupar dados no orange indentificação de perfis (dar labels)
+    deteção de anomalias - encontrar picos de energias (ou outras anomalias)
+    sistemas de recomendação - criar regras "se ... então" para resolver essas mesmas anomalias
+
+no nosso caso, o dataset é mais virado para descobrir certas anomalias conforme o tempo, por exemplo:
+    o inverno chega, logo o aquecimento (anomalia/cluster) subiu.
+
+
+
